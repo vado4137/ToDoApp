@@ -1,0 +1,71 @@
+{
+  "hash": "7114dc8b",
+  "browserHash": "488b0844",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "9f989e83",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "b1949eae",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "0ad3420f",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "0763a251",
+      "needsInterop": false
+    },
+    "@angular/material/tooltip": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/tooltip.mjs",
+      "file": "@angular_material_tooltip.js",
+      "fileHash": "4c6c3c99",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "47124500",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "fac04989",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "6f0ea3d6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OY6DVU2S": {
+      "file": "chunk-OY6DVU2S.js"
+    },
+    "chunk-YHWAKTCM": {
+      "file": "chunk-YHWAKTCM.js"
+    },
+    "chunk-KK2QVQAA": {
+      "file": "chunk-KK2QVQAA.js"
+    },
+    "chunk-TL3XWZBD": {
+      "file": "chunk-TL3XWZBD.js"
+    },
+    "chunk-D7VKYP6I": {
+      "file": "chunk-D7VKYP6I.js"
+    }
+  }
+}
